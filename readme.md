@@ -4,9 +4,9 @@ sqlite3 for secure
 
 # build
 
-* windows (以vs2013为例)
+* windows
 
-	windows下使用以下命令来生成Visual Studio解决方案
+	windows下使用以下命令来生成Visual Studio的解决方案(以vs2013为例)
 
 	```shell
 	$ cd sqlite3
